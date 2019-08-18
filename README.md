@@ -33,3 +33,7 @@ Log in at [http://server_ip:port/admin](http://localhost:8000/admin)
 ```
 python manage.py shell
 ```
+
+aef
+wer
+gf
